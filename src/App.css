@@ -71,6 +71,7 @@
     }
    
 #cp,#fp{
+  font-weight: bold;
   float: left;}
 #fp{
   margin-left: 25px;
