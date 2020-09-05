@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Calendar-Game/static/css/main.4293e3f9.chunk.css",
+    "main.js": "/Calendar-Game/static/js/main.93afee5a.chunk.js",
+    "main.js.map": "/Calendar-Game/static/js/main.93afee5a.chunk.js.map",
+    "runtime-main.js": "/Calendar-Game/static/js/runtime-main.1c1670d3.js",
+    "runtime-main.js.map": "/Calendar-Game/static/js/runtime-main.1c1670d3.js.map",
+    "static/js/2.c569cd8f.chunk.js": "/Calendar-Game/static/js/2.c569cd8f.chunk.js",
+    "static/js/2.c569cd8f.chunk.js.map": "/Calendar-Game/static/js/2.c569cd8f.chunk.js.map",
+    "index.html": "/Calendar-Game/index.html",
+    "precache-manifest.7cdb6e067ba03b80b4ad808c938fab21.js": "/Calendar-Game/precache-manifest.7cdb6e067ba03b80b4ad808c938fab21.js",
+    "service-worker.js": "/Calendar-Game/service-worker.js",
+    "static/css/main.4293e3f9.chunk.css.map": "/Calendar-Game/static/css/main.4293e3f9.chunk.css.map",
+    "static/js/2.c569cd8f.chunk.js.LICENSE.txt": "/Calendar-Game/static/js/2.c569cd8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c1670d3.js",
+    "static/js/2.c569cd8f.chunk.js",
+    "static/css/main.4293e3f9.chunk.css",
+    "static/js/main.93afee5a.chunk.js"
+  ]
+}
